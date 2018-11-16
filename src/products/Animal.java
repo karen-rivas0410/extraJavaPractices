@@ -8,8 +8,7 @@ public class Animal {
 //    Try extending the subtype of Dog further with a subtype of Pug
 
 //    BONUS #2
-//    Create a package called products that will hold all the classes for this bonus.
-//    Create a class called ProductTester with a main method to test out the following...
+//    Create a package called products that will hold all the classes for this  ductTester with a main method to test out the following...
 //    Create a class of Product (this will be the parent class)
 //            - add a few properties (like price, description, dateWhenAvailble, etc.) and methods appropriate for a product a company may offer (the methods may simply sout out various messages like "ordering new products")
 //    Create the following child classes: Item, Service, Subscription
